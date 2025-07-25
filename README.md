@@ -1,7 +1,7 @@
 # Disease Outbreak Prediction System
 
 A machine learning-powered web application built with Streamlit that predicts the likelihood of three major diseases: Diabetes, Heart Disease, and Parkinson's Disease. This system uses pre-trained machine learning models to provide quick and accurate health assessments based on user input.
-
+    
 ## 🚀 Features
 
 - **Multi-Disease Prediction**: Supports prediction for three critical health conditions
